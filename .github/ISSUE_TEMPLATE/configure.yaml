@@ -1,16 +1,12 @@
-name: Bug
-description: File a bug report
+name: Issue :
+description: Reporr an issue to L3
 body:
   - type: markdown
     attributes:
       value: |
-        Before opening a bug report, please search for the behaviour in the existing issues. 
-        
-        ---
-        
-        Thank you for taking the time to file a bug report. To address this bug as fast as possible, we need some information.
+        Request you fill the below details to report an issue to L3 Engineering Team
   - type: input
-    id: os
+    id: Issue 
     attributes:
       label: Operating system
       description: "Which operating system do you use? Please provide the version as well."
