@@ -1,10 +1,10 @@
 name: Issue
-description: Reporr an issue to L3
+description: Report an issue to L3
 body:
   - type: markdown
     attributes:
       value: |
-        Request you fill the below details to report an issue to L3 Engineering Team
+        Please fill the below details to report an issue to L3 Engineering Team
   - type: input
     id: Issue 
     attributes:
