@@ -1,4 +1,4 @@
-name: Issue :
+name: Issue:
 description: Reporr an issue to L3
 body:
   - type: markdown
